@@ -1,5 +1,5 @@
 Lien du jeu de données avec Training.csv et Testing.csv
-À glisser dans le répertoire data
+À glisser dans un répertoire data à créer à la racine du fichier.
 https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning
 
 Le projet contient :
